@@ -1,0 +1,123 @@
+ [{
+            "id": "1",
+            "username": "Szász Zoltán",
+            "megye": "Pest",
+            "helyrajziszam": "25",
+            "meret": "15 teszt",
+            "allamiterulet": "15%"
+        },
+        {
+            "id": "2",
+            "username": " jani",
+            "megye": "Bekes",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+        {
+            "id": "3",
+            "username": " jani béla",
+            "megye": "Vas",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+        {
+            "id": "4",
+            "username": " Kiss Peter",
+            "megye": "Zala",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+        {
+            "id": "5",
+            "username": " jani",
+            "megye": "Heves",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+        {
+            "id": "6",
+            "username": " Kata",
+            "megye": "Nógrád",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+        {
+            "id": "7",
+            "username": "Sanyi",
+            "megye": "Csongrád",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+        {
+            "id": "8",
+            "username": "Sanyi",
+            "megye": "Csongrád",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+
+
+        {
+            "id": "9",
+            "username": "Peter",
+            "megye": "Csongrád",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+        
+        {
+            "id": "10",
+            "username": "Kriszti",
+            "megye": "Heves",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+
+
+        {
+            "id": "11",
+            "username": "Kriszti",
+            "megye": "Heves",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+
+        {
+            "id": "12",
+            "username": "Béla",
+            "megye": "Heves",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+
+        {
+            "id": "13",
+            "username": "Dorina",
+            "megye": "Vas",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        },
+
+
+        {
+            "id": "15",
+            "username": "Istvan",
+            "megye": "Bekes",
+            "helyrajziszam": "25",
+            "meret": "15 hektar",
+            "allamiterulet": "15%"
+        }
+]
+

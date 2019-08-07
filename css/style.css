@@ -1,0 +1,153 @@
+.login-bg {
+  background-image: -webkit-gradient(linear, left top, right bottom, from(rgba(26, 83, 92, 0.8)), to(rgba(78, 205, 196, 0.8))), url(../img/land_background.jpg);
+  background-image: linear-gradient(to right bottom, rgba(26, 83, 92, 0.8), rgba(78, 205, 196, 0.8)), url(../img/land_background.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat; }
+
+#login-page #form-container {
+  margin-top: 300px;
+  width: 100%; }
+  #login-page #form-container .form-wrapper {
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #fff;
+    background-size: cover;
+    color: #757575;
+    height: 100%;
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    border: solid 1px #eee;
+    border-radius: 10px; }
+  #login-page #form-container .form-control {
+    width: 80%;
+    margin: 0 auto; }
+  #login-page #form-container .btn-primary {
+    background-color: #4ecdc4;
+    margin-top: 10px;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    border-color: #4ecdc4;
+    width: 80%;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 10px;
+    padding: 10px 20px 10px 20px; }
+    #login-page #form-container .btn-primary:hover {
+      background-color: #fff;
+      border-color: #4ecdc4;
+      color: #4ecdc4; }
+
+.subpage-content {
+  text-align: left; }
+  .subpage-content .btn-primary {
+    background-color: #ff6b6b;
+    font-size: 14px;
+    font-weight: 800;
+    letter-spacing: 1px;
+    border-color: #ff6b6b;
+    text-transform: uppercase;
+    font-family: 'Open Sans', sans-serif;
+    padding-top: 10px;
+    padding: 8px 20px 8px 20px;
+    color: #fff;
+    margin-left: 10px; }
+    .subpage-content .btn-primary:hover {
+      background-color: #fff;
+      border-color: #ff6b6b !important;
+      color: #ff6b6b !important; }
+    .subpage-content .btn-primary:active {
+      background-color: #fff !important;
+      border-color: #ff6b6b !important;
+      color: #ff6b6b !important; }
+    .subpage-content .btn-primary:focus {
+      background-color: #fff !important;
+      border-color: #ff6b6b !important;
+      color: #ff6b6b !important; }
+  .subpage-content .bg-light {
+    background-color: #4ecdc4 !important; }
+  .subpage-content .list-group-item {
+    color: #fff;
+    background-color: #4ecdc4 !important; }
+    .subpage-content .list-group-item:hover {
+      background-color: #fff !important;
+      color: #4ecdc4; }
+  .subpage-content .sidebar-heading {
+    display: none; }
+  .subpage-content .table th {
+    text-transform: uppercase;
+    color: #757575;
+    letter-spacing: 1; }
+  .subpage-content .table td {
+    color: #757575; }
+  .subpage-content #land-table_length {
+    position: relative;
+    left: 1%; }
+  .subpage-content #land-table_filter {
+    position: relative;
+    left: -1%; }
+  .subpage-content #land-table_paginate {
+    position: relative;
+    right: 0%; }
+  .subpage-content div.dataTables_wrapper div.dataTables_info {
+    display: none; }
+  .subpage-content .page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #4ecdc4;
+    border-color: #4ecdc4; }
+  .subpage-content p {
+    margin-bottom: 20px; }
+  .subpage-content h1 {
+    padding-top: 60px;
+    color: #4ecdc4; }
+  .subpage-content .navbar-light .navbar-nav .nav-link {
+    color: #4ecdc4;
+    font-weight: bold;
+    margin-right: 50px;
+    text-transform: uppercase;
+    letter-spacing: 1px; }
+    @media screen and (max-width: 991px) {
+      .subpage-content .navbar-light .navbar-nav .nav-link {
+        margin-left: 14px; } }
+
+.button-container {
+  margin-bottom: 40px;
+  padding-top: 40px; }
+  .button-container .btn-danger {
+    color: #fff;
+    background-color: #ff6b6b !important;
+    border-color: #ff6b6b !important; }
+  .button-container .btn-warning {
+    color: #212529;
+    background-color: #ffe66d;
+    border-color: #ffe66d;
+    margin-right: 15px; }
+
+#myChart {
+  position: relative;
+  left: -4%;
+  top: 44px; }
+
+.navbar {
+  padding: 5px;
+  -webkit-box-shadow: 0 10px 6px -12px #ccc;
+  box-shadow: 0 10px 6px -10px #ccc; }
+
+.table-responsive {
+  display: block;
+  width: 100%;
+  overflow-x: hidden; }
+
+.page-link {
+  color: #4ecdc4; }
