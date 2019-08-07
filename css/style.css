@@ -78,7 +78,9 @@
     background-color: #4ecdc4 !important; }
   .subpage-content .list-group-item {
     color: #fff;
-    background-color: #4ecdc4 !important; }
+    background-color: #4ecdc4 !important;
+    font-weight: bold;
+    font-size: 18px; }
     .subpage-content .list-group-item:hover {
       background-color: #fff !important;
       color: #4ecdc4; }
@@ -148,6 +150,9 @@
   display: block;
   width: 100%;
   overflow-x: hidden; }
+  @media screen and (min-width: 1000px) {
+    .table-responsive {
+      overflow-x: auto; } }
 
 .page-link {
   color: #4ecdc4; }

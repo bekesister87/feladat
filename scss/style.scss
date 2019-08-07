@@ -134,6 +134,8 @@ $second-button: rgba(255, 230, 109, 1);
     .list-group-item{
         color:$color-white;
         background-color:$bg-color!important;
+        font-weight: bold;
+        font-size: 18px;
         &:hover{
             background-color: $color-white !important;
             color:$bg-color;
@@ -264,6 +266,12 @@ $second-button: rgba(255, 230, 109, 1);
     display: block;
     width: 100%;
     overflow-x: hidden;
+
+    @media screen and (min-width: 1000px) {
+        overflow-x: auto;
+    }
+
+
   
 }
 
