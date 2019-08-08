@@ -40,31 +40,7 @@
    
    });
 
-
-   $('#land-table').DataTable( {
-    dom: 'Bfrtip',
-    buttons: [
-        'colvis',
-        'excel',
-        'print'
-    ]
-} );
-
-   var table = $('#land-table').DataTable( {
-    buttons: true
-} );
- 
-table
-    .buttons()
-    .container()
-    .appendTo( '#land-table' );
-
-
-   
-
-
-
-    // user chart
+   // user chart
   
     let myChart = document.getElementById('myChart').getContext('2d');
 
@@ -130,8 +106,6 @@ table
         }
       }
     });
-
-
 
 
   

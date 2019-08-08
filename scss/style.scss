@@ -4,6 +4,8 @@ $Light-green: #7ed56f;
 $color-white: #fff;
 
 $light-gray:#eee;
+
+$drak-green:rgba(26, 83, 92, 1);
 $drak-gray:#757575;
 
 $button-colors: rgba(255, 107, 107, 1);
@@ -192,7 +194,12 @@ $second-button: rgba(255, 230, 109, 1);
         z-index: 1;
         color:$color-white;
         background-color: $bg-color;
-        border-color:$bg-color;
+        border-color:$color-white;
+    }
+
+    .page-link:hover{
+        background-color: $drak-green;
+        color:$color-white;
     }
 
 
@@ -267,7 +274,7 @@ $second-button: rgba(255, 230, 109, 1);
     width: 100%;
     overflow-x: hidden;
 
-    @media screen and (min-width: 1000px) {
+    @media screen and (max-width: 1000px) {
         overflow-x: auto;
     }
 
@@ -276,7 +283,7 @@ $second-button: rgba(255, 230, 109, 1);
 }
 
 .page-link {
-    color: $bg-color;
+    color: $drak-green;
  
 }
 

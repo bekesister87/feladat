@@ -107,7 +107,10 @@
     z-index: 1;
     color: #fff;
     background-color: #4ecdc4;
-    border-color: #4ecdc4; }
+    border-color: #fff; }
+  .subpage-content .page-link:hover {
+    background-color: #1a535c;
+    color: #fff; }
   .subpage-content p {
     margin-bottom: 20px; }
   .subpage-content h1 {
@@ -150,9 +153,9 @@
   display: block;
   width: 100%;
   overflow-x: hidden; }
-  @media screen and (min-width: 1000px) {
+  @media screen and (max-width: 1000px) {
     .table-responsive {
       overflow-x: auto; } }
 
 .page-link {
-  color: #4ecdc4; }
+  color: #1a535c; }
