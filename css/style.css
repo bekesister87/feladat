@@ -159,3 +159,10 @@
 
 .page-link {
   color: #1a535c; }
+
+.navbar-toggler {
+  position: relative;
+  left: 250%; }
+  @media screen and (max-width: 640px) {
+    .navbar-toggler {
+      left: 140%; } }

@@ -288,6 +288,18 @@ $second-button: rgba(255, 230, 109, 1);
 }
 
 
+.navbar-toggler {
+    position: relative;
+    left: 250%;
+
+   
+    @media screen and (max-width: 640px) {
+        left: 140%;
+
+    }
+}
+
+
 
 
 
